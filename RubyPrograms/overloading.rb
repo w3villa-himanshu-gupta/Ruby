@@ -1,0 +1,3 @@
+class emp
+    def
+end
